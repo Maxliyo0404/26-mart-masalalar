@@ -99,9 +99,9 @@
 // }
 
 // 11-masala
-let a = +prompt("a sonini kiriting");
-if (a >= 100 && a <= 999 && a % 2 !== 0) {
-    alert("true");
-} else {
-    alert("false");
-}
+// let a = +prompt("a sonini kiriting");
+// if (a >= 100 && a <= 999 && a % 2 !== 0) {
+//     alert("true");
+// } else {
+//     alert("false");
+// }
