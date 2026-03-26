@@ -86,10 +86,14 @@
 //  let b = +prompt("b sonini kiriting");
 //  let c = +prompt("c sonini kiriting");
 //  if ((a > 0 && b > 0 && c <= 0 ) || (a > 0 && b <= 0 && c > 0) || (a <= 0 && b > 0 && c > 0)) {
-//     alert("true")
+//     alert("true");
 //  } else {
-//     alert("false")
+//     alert("false");
 // //  }
 // 10-masala
 let a = +prompt("a sonini kiriting");
-let natija = (a % 2 === 0 ) ? alert("juft son")
+if (a >= 10 && a <= 99 && a % 2 === 0) {
+    alert("true");
+} else {
+    alert("false");
+}
