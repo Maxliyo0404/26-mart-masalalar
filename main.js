@@ -89,4 +89,7 @@
 //     alert("true")
 //  } else {
 //     alert("false")
-//  }
+// //  }
+// 10-masala
+let a = +prompt("a sonini kiriting");
+let natija = (a % 2 === 0 ) ? alert("juft son")
