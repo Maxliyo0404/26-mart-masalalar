@@ -3,8 +3,8 @@
 let a = +prompt("a sonini kiriting");
 let b = +prompt("b sonini kiriting");
 let c = +prompt("c sonini kiriting");
-if ( a = b || b = c || a = c ) {
-    alert("true")
+if ( a === b || b === c || a === c ) {
+    alert("true");
 } else {
-     alert("false")
+     alert("false");
 }
