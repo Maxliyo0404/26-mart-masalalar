@@ -6,5 +6,5 @@ let c = +prompt("c sonini kiriting");
 if ( a = b || b = c || a = c ) {
     alert("true")
 } else {
-    
+     alert("false")
 }
