@@ -41,3 +41,13 @@
 // } else {
 //     alert("false");
 // }
+
+// 5-masala
+
+let a = +prompt("a sonini kiriting");
+ let b = +prompt("b sonini kiriting");
+ if () {
+    
+ } else {
+    
+ }
