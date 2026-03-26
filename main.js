@@ -106,11 +106,25 @@
 //     alert("false");
 // }
 //  12-masala
- let a = +prompt("a sonini kiriting");
- let b = +prompt("b sonini kiriting");
- let c = +prompt("c sonini kiriting");
- if (a === -b || a === -c || b === -c) {
-     alert("true");
- } else {
+//  let a = +prompt("a sonini kiriting");
+//  let b = +prompt("b sonini kiriting");
+//  let c = +prompt("c sonini kiriting");
+//  if (a === -b || a === -c || b === -c) {
+//      alert("true");
+//  } else {
+//     alert("false");
+//  }
+// 13-masala
+
+let son =  +prompt("son kiriting");
+
+let a = Math.floor(son / 100);
+let b = Math.floor((son / 10) % 10);
+let c = Math.floor( son % 10);
+if ((a < b && b < c) || a > b && b > c) {
+    alert("true");
+} else {
     alert("false");
- }
+    console.log(son);
+    
+}
