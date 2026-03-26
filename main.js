@@ -116,15 +116,45 @@
 //  }
 // 13-masala
 
-let son =  +prompt("son kiriting");
+// let son =  +prompt("son kiriting");
+
+// let a = Math.floor(son / 100);
+// let b = Math.floor((son / 10) % 10);
+// let c = Math.floor( son % 10);
+// if ((a < b && b < c) || a > b && b > c) {
+//     alert("true");
+// } else {
+//     alert("false");
+//     console.log(son);
+    
+// }
+
+// 14-masala
+
+// let son =  +prompt("son kiriting");
+
+// let a = Math.floor(son / 100);
+// let b = Math.floor((son / 10) % 10);
+// let c = Math.floor( son % 10);
+// if ((a < b && b < c) || a > b && b > c) {
+//     alert("true");
+// } else {
+//     alert("false");
+//     console.log(son);
+    
+// }
+
+// 15-masala
+
+ let son =  +prompt("son kiriting");
 
 let a = Math.floor(son / 100);
 let b = Math.floor((son / 10) % 10);
-let c = Math.floor( son % 10);
-if ((a < b && b < c) || a > b && b > c) {
+let c = son % 10;
+if (   a !== b && a !== c && b !==c) {
     alert("true");
 } else {
     alert("false");
-    console.log(son);
+    
     
 }
