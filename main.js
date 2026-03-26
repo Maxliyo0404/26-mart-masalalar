@@ -33,11 +33,11 @@
 // }
 
 // 4-masala
-let a = +prompt("a sonini kiriting");
- let b = +prompt("b sonini kiriting");
+// let a = +prompt("a sonini kiriting");
+//  let b = +prompt("b sonini kiriting");
  
-if (a % 2 !== 0 && b % 2 !== 0) 
-     alert("true");
-} else {
-    alert("false");
-}
+// if (a % 2 !== 0 && b % 2 !== 0) {
+//      alert("true");
+// } else {
+//     alert("false");
+// }
