@@ -72,11 +72,11 @@
 //  }
 
 // 8-masala
-let a = +prompt("a sonini kiriting");
- let b = +prompt("b sonini kiriting");
- let c = +prompt("c sonini kiriting");
- if (a > 0 && b > 0 && c > 0) {
-    alert("true")
- } else {
-    alert("false")
- }
+// let a = +prompt("a sonini kiriting");
+//  let b = +prompt("b sonini kiriting");
+//  let c = +prompt("c sonini kiriting");
+//  if ((a > 0 && b <= 0 && c <= 0 ) || (a <= 0 && b > 0 && c <= 0) || (a <= 0 && b <= 0 && c > 0)) {
+//     alert("true")
+//  } else {
+//     alert("false")
+//  }
