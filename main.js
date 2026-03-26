@@ -10,5 +10,5 @@
 // } 
                                 //    uyga vazifa
 // 1-masala 
-let a = +prompt("a sonini kiriting");
-let natija = ( a % 2 === 0) ? alert("jujt")  : alert("toq")  ;                           
+// let a = +prompt("a sonini kiriting");
+// let natija = ( a % 2 === 0) ? alert("jujt")  : alert("toq")  ;                           
