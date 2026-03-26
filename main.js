@@ -7,4 +7,5 @@
 //     alert("true");
 // } else {
 //      alert("false");
-// }
+// } 
+                                //    uyga vazifa
