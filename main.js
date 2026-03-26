@@ -14,10 +14,10 @@
 // let natija = ( a % 2 === 0) ? alert("jujt")  : alert("toq")  ;    
 
 // 2-masala
-let a = +prompt("a sonini kiriting");
-let b = +prompt("b sonini kiriting");
-if (a >= 0 || b < -2) {
-    alert("true");
-} else {
-     alert("false");
-}
+// let a = +prompt("a sonini kiriting");
+// let b = +prompt("b sonini kiriting");
+// if (a >= 0 || b < -2) {
+//     alert("true");
+// } else {
+//      alert("false");
+// }
